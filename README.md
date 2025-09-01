@@ -10,7 +10,7 @@ This end-to-end data science project focuses on predicting whether water is pota
 
 You can interact with the final trained model through the live Streamlit web application:
 
-**[➡️ Click here to view the Streamlit App](https://your-streamlit-app-url.streamlit.app/)**
+**[➡️ Click here to view the Streamlit App](https://water-purity-test-tajhaicajwq6dhcwrfjqou.streamlit.app/)**
 
 ---
 
